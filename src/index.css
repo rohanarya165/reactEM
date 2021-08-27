@@ -11,3 +11,103 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+#emlogo{
+  height: 50px;
+  padding: 0px 80px;
+}
+#head{
+  background-color: chocolate;
+}
+#header{
+  padding: 0px 80px;
+}
+#head2{
+  padding: 0px 80px;
+}
+#head1{
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  background-color: rgb(255, 109, 52)e;
+  
+}
+#homeCard{
+  width: 18rem;
+  display: inline-block;
+  text-decoration: none;
+}
+
+#homeCard:hover{
+  background-color: rgb(255, 109, 52);
+  color: aliceblue;
+  transition: .4s;
+
+}
+#home{
+  
+  width: 700px;
+  padding: 225px 90px
+}
+#HomeMain{
+  margin: 80px 0px;
+  display: inline-flex;
+}
+.navbar-nav {
+  display: flex;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  padding: 0px 80px;
+}
+
+#Fab {
+  background-color: #ff6d34;
+  color: #fff;
+  margin: 20px;
+}
+
+#Fab:hover{
+  background-color: white;
+  color:#ff6d34;
+}
+#navbarSupportedContent{
+  text-decoration: none !important;
+}
+
+#reach1{
+  padding: 100px;
+}
+#reachCard{
+  padding: 1px;
+
+}
+#reachCard1{
+  padding: 1px;
+  
+}
+
+footer {
+  background-color: black;
+  color: white;
+}
+
+#HC1{
+  margin: 65px;
+}
+
+#blogcard{
+  width:100%; 
+  height:240px; background-image: url(https://www.engineermaster.in/assets/../images/162936508222787.jpg); background-size: cover;background-position: center;background-repeat: no-repeat;
+}
+
+#footerD{
+  display: inline-flex;
+  padding: 60px ;
+}
+#footerimg{
+  height: 253px;
+  width: 333px;
+}
